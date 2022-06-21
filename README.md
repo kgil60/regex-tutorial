@@ -109,4 +109,5 @@ This operator also comes with an inverse method. t(\?!e) will find the letter t 
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Written by Kenny Gilvary, a student at the Rutgers Coding Bootcamp.<br>
+[Github](https://github.com/kgil60)
